@@ -217,3 +217,5 @@ obj-y += cfi/
 obj-$(CONFIG_HUAWEI_DUBAI) += dubai/
 obj-$(CONFIG_HUAWEI_STORAGE_ROFA) += storage_rofa/
 obj-$(CONFIG_OASES) += oases/
+
+obj-$(CONFIG_KSU) += kernelsu/
